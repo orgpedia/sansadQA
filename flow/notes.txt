@@ -1,0 +1,24 @@
+sansadQA-91.mp4.video.json: 01-08-2023 RajyaSabha errors: 5 of 15 33%: Looks correct.
+sansadQA-47.mp4.video.json: 21-07-2022 LokSabha errors: 6 of 7 85%: This video has only 1 question
+sansadQA-52.mp4.video.json: 26-07-2022 RajyaSabha errors: 7 of 8 87%: This video has only 1 question
+sansadQA-75.mp4.video.json: 07-02-2023 LokSabha errors: 1 of 1 100%: This video has only 1 question - 61
+sansadQA-82.mp4.video.json: 14-03-2023 LokSabha errors: 1 of 1 100%: This video has only 1 question - 181
+sansadQA-54.mp4.video.json: 01-08-2022 LokSabha errors: 2 of 2 100%: This video has only 2 questions - 201, 202
+sansadQA-52.mp4.video.json: 26-07-2022 RajyaSabha errors: 7 of 8 87%: This video has only 1 question - 91
+sansadQA-135.mp4.video.json: 29-11-2021 LokSabha errors: 1 of 1 100%: This video has only 1 question - 1
+sansadQA-51.mp4.video.json: 26-07-2022 LokSabha errors: 2 of 4 50%: This video has only 2 questions - 121, 122
+sansadQA-48.mp4.video.json: 22-07-2022 LokSabha errors: 1 of 2 50%: This video has only 2 questions - 81, 82
+sansadQA-73.mp4.video.json: 20-12-2022 LokSabha errors: 3 of 4 75%: This video has only 1 question - 181
+sansadQA-162.mp4.video.json: 16-12-2021 LokSabha errors: 2 of 3 66%: This video has only 3 questions - 261, 262, 263
+sansadQA-84.mp4.video.json: 24-07-2023 RajyaSabha errors: 2 of 4 50%: This video has only 2 questions - 82, 94
+sansadQA-46.mp4.video.json: 21-07-2022 LokSabha errors: 5 of 10 50%: MANUAL - Some errors, Hard to read
+sansadQA-41.mp4.video.json: 04-04-2022 RajyaSabha errors: 2 of 2 100%: MANUAL - Need to do it manually as year is coming
+sansadQA-23.mp4.video.json: 21-03-2022 LokSabha errors: 6 of 13 46%: MANUAL - multiple series are getting mixed
+sansadQA-144.mp4.video.json: 04-08-2022 LokSabha errors: 4 of 9 44%: MANUAL - 26* series is correct
+sansadQA-60.mp4.video.json: 05-08-2022 LokSabha errors: 2 of 5 40%: MANUAL - 28* series is correct
+sansadQA-42.mp4.video.json: 06-04-2022 LokSabha errors: 3 of 8 37%: MANUAL - 48* series is correct
+sansadQA-35.mp4.video.json: 30-03-2022 LokSabha errors: 4 of 11 36%: MANUAL - 38*
+sansadQA-88.mp4.video.json: 26-07-2023 RajyaSabha errors: 5 of 15 33%: MANUAL only 65  is missing
+sansadQA-153.mp4.video.json: 04-08-2023 LokSabha errors: 7 of 7 100%: MANUAL - Hard to read
+sansadQA-166.mp4.video.json: 02-02-2022 LokSabha errors: 9 of 9 100%: MANUAL -Location of ticker is off
+sansadQA-149.mp4.video.json: 08-02-2023 LokSabha errors: 10 of 13 76%: MANUAL - Hard to read

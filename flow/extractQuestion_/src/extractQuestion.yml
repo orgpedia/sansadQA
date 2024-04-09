@@ -1,0 +1,60 @@
+description: This folder(task) runs transcribes the audio file and identifies the speakers (diarization)
+
+#docker_pipes: [ 'doc_translator_a4b']
+
+input_dir: 'input'
+output_dir: 'output'
+config_dir: 'conf'
+output_stub: 'doc'
+read_cache: False
+ignore_docs: ['sansadQA-114.mp4', 'sansadQA-115.mp4', 'sansadQA-116.mp4', 'sansadQA-117.mp4', 'sansadQA-118.mp4', 'sansadQA-119.mp4', 'sansadQA-125.mp4', 'sansadQA-136.mp4']
+
+pipeline:
+  # - name: DetectScene
+  #   config:
+  #     detector: content
+  #     min_scene_len: '4.1s'
+
+
+  - name: AddInfo
+    config:
+      info_file: 'conf/videos.json'
+
+
+ # - name: FindTalker
+
+  - name: FindDate    
+
+  - name: FindQuestion
+
+
+  # - name: InferQuestion
+      
+      
+  # - name: ExtractText
+  #   config:
+  #     text_configs:
+  #       - name: talker
+  #         bbox: [0.08, 0.775, 0.92, 0.835]
+  #         gap: 1
+  #         is_ticker: False
+  #         color_hash: '31000e00008'
+
+  #       - name: ticker
+  #         bbox: [0.08, 0.775, 0.92, 0.835]
+  #         gap: 1
+  #         is_ticker: False
+  #         color_hash: '38000e00008'      
+
+  # # - name: ExtractText
+  # #   config:
+  # #     text_configs:
+  # #       - name: talker
+  # #         bbox: [0.08, 0.775, 0.92, 0.835]
+  # #         gap: 1
+  # #         is_ticker: False
+  # #         color_hash: '31000e00008'
+  
+  # - name: ExtractQuestion2
+
+  # - name: InferQuestion    
